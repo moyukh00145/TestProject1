@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+.header{
+    margin: 0px;
+    padding: 5rem;
+    background-color: rgb(158, 227, 30);
+    height:15rem;
+
+    
+}
+
+h1{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    padding: 1rem;
+    position: absolute;
+    left: 0px;
+}
+
+.pfont{
+    font-family: 'Arial';
+    font-size: large;
+}
+
+.container_st{
+    background-color: bisque;
+    border: 3px solid green;
+    padding: 2rem;
+    border-radius: 2rem;
+
+}
+
+.list_heading{
+    width: fit-content;
+    margin: auto;
+}
+
+
+
